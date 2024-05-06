@@ -12,7 +12,7 @@
 
 3. **Visualización de Datos**:
    - Crearé gráficos y dashboards para comunicar hallazgos de manera efectiva.
-   - Utilizaré herramientas como Tableau o Plotly.
+   - Utilizaré herramientas como Power BI o Plotly.
 
 ## Proyectos Futuros
 
